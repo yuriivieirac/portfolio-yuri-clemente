@@ -2,8 +2,6 @@
 
 Este é o meu portfólio pessoal desenvolvido com **HTML5** e **CSS3**, com estrutura responsiva e foco na apresentação dos meus projetos, especialidades técnicas e trajetória como desenvolvedor.
 
-![Imagem do Portfólio](imagens/img-topo-site.png)
-
 ## 🧠 Sobre Mim
 
 Me chamo **Yuri Vieira Clemente**, sou formado em Análise e Desenvolvimento de Sistemas e tenho 24 anos. Busco unir criatividade e técnica para entregar soluções reais, com foco em back-end e integração com bancos de dados. Sou apaixonado por resolver problemas e sempre estou aprendendo algo novo no mundo da tecnologia.
@@ -12,13 +10,11 @@ Me chamo **Yuri Vieira Clemente**, sou formado em Análise e Desenvolvimento de 
 
 - HTML5
 - CSS3
-- Bootstrap Icons
-- Estrutura flexbox e layout responsivo
 
 ## 🛠️ Minhas Especialidades
 
 - **Java (Spring Boot)**: Desenvolvimento de APIs RESTful com foco em performance e boas práticas.
-- **PostgreSQL**: Modelagem de dados, consultas avançadas e integração com aplicações Java.
+- **PostgreSQL**: Modelagem de dados, consultas e integração com aplicações Java.
 - **Git**: Versionamento de código, uso de branches e GitHub.
 - **Docker (básico)**: Conceitos iniciais sobre containers e virtualização de ambientes.
 
@@ -50,5 +46,3 @@ Você pode acessar meu currículo completo em PDF clicando [aqui](curriculo/Curr
 - 💻 [GitHub](https://github.com/yuriivieirac)
 
 ---
-
-© 2025 Yuri Vieira Clemente — Todos os direitos reservados.
