@@ -22,14 +22,9 @@ Me chamo **Yuri Vieira Clemente**, sou formado em Análise e Desenvolvimento de 
 
 ### Projeto 1 — CRUD de Clientes
 > Sistema completo de cadastro, leitura, atualização e remoção de clientes utilizando Java, Spring Boot e PostgreSQL.
-🎥 [Assista ao vídeo](videos/CRUD-Cliente.mp4)
 
 ### Projeto 2 — API de Gerenciamento de Estacionamento
 > API desenvolvida para **cadastrar, consultar, editar e excluir vagas e clientes**. A aplicação permite gerenciar as vagas de um estacionamento e os clientes cadastrados, com operações RESTful de CRUD (Create, Read, Update, Delete).
-🎥 [Assista ao vídeo](videos/gerenciamento-de-estacionamento.mp4)
-
-### Projeto 3 — Em desenvolvimento...
-> Projeto em andamento. Em breve disponível com vídeo e descrição detalhada.
 
 ## 📄 Currículo
 
@@ -37,7 +32,7 @@ Você pode acessar meu currículo completo em PDF clicando [aqui](curriculo/Curr
 
 ## 🌍 Deploy do Portfólio
 
-> Em breve será publicado em uma plataforma como Vercel ou GitHub Pages.
+> Deploy do Portfólio: Disponível em https://yuriivieirac.github.io/portfolio-yuri-clemente/
 
 ## 📫 Contato
 
